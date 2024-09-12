@@ -1,0 +1,6 @@
+@Book_Coding_Challenge_HostAddress = http://localhost:5213
+
+GET {{Book_Coding_Challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
